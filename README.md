@@ -2,7 +2,7 @@
 this is a bookmarklet tool to automate crafting in Infinite Craft
 
 # What is a Bookmarklet?
-A bookmarklet is a bookmark that contains JavaScript code rather than a URL. This allows users to run a script directly from their bookmarks bar, adding useful functionalities to websites like WorldGuessr.
+A bookmarklet is a bookmark that contains JavaScript code rather than a URL. This allows users to run a script directly from their bookmarks bar, adding useful functionalities to websites.
 
 # How to Create and Use the Infinite Autocraft Bookmarklet
 
